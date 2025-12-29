@@ -15,8 +15,8 @@
 
 ## 👋 Hi, I'm Marllon
 
-> **“Security is a process, not a product.”**  
-> — *Bruce Schneier*
+> **"You can't defend what you don't understand.."**  
+>- *Marco Ranum*
 
 🔐 **Cybersecurity · Low-Level Programming · Reverse Engineering · Security Automation · Malware Research**
 
