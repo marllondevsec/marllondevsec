@@ -18,10 +18,15 @@
 > **"You can't defend what you don't understand.."**  
 >- *Marco Ranum*
 
-🔐 **Cybersecurity · Low-Level Programming · Reverse Engineering · Security Automation · Malware Research**
+🔐 **Cybersecurity · Low-Level Programming · Python • C++ • Windows Internals • Bash**
 
-I focus on low-level and system-oriented programming, OS internals, reverse engineering, security automation, malware research, and developing tools for pentesting and lab experimentation.
+I focus on building strong foundations in IT and cybersecurity, including:
+- Systems & network administration
+- OS internals and low-level programming
+- Security automation and pentesting labs
+- Reverse engineering and responsible vulnerability research
 
+Currently exploring entry-level opportunities in **IT Support, NOC, SOC Jr, or Infrastructure**, while continuing to learn and experiment with cybersecurity tools and labs.
 ---
 
 <!-- Banners focados no seu foco principal -->
@@ -42,13 +47,14 @@ I focus on low-level and system-oriented programming, OS internals, reverse engi
 
 ### 🧠 Focus Areas
 
-- Low-level programming (C / C++)
+- Operating systems & low-level programming (C / C++)
 - Linux & Windows internals
-- Reverse engineering
-- Security automation & tooling
-- Malware research
-- Web & Arduino experiments
-- Memory, execution flow, and evasion studies
+- Security fundamentals & automation
+- Reverse engineering basics
+- Malware behavior analysis (labs)
+- Web security experiments
+- Memory and execution flow analysis
+
 
 ---
 
@@ -60,7 +66,7 @@ I am currently in the final semester of a Computer Science degree, where I found
 
 This profile is new and was rebuilt with the intention of better organization and the proper application of techniques that I only fully mastered later in my journey.
 
-Today, my focus is on continuous improvement in offensive security, with a particular interest in Red Team operations, low-level systems, and security research.
+Today, my focus is on building a strong foundation in IT and security operations, with growing experience in system-level programming, security research, and practical labs, while preparing for entry-level opportunities in IT Support, SOC, NOC, or Infrastructure.
 
 
 ---
