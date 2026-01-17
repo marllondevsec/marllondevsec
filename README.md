@@ -92,7 +92,4 @@ Today, my focus is on building a strong foundation in IT and security operations
 
 ---
 
-<div align="center">
-  <img src="assets/cli.gif" width="520" />
-  <br/>
-</div>
+
