@@ -1,67 +1,99 @@
-<table border="0" width="100%">
-  <tr align="left">
-    <td width="160px" align="center">
-      <img src="assets/cat.gif" width="140px" alt="Meow"/>
-    </td>
-    <td>
-      <h1>👋 Hi, I'm Marllon S.</h1>
-      <p>
-        <b> Cybersecurity · SOC/NOC · Low-Level</b>
-      </p>
-      <a href="https://www.linkedin.com/in/marllondevsec">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=marllondevsec.marllondevsec" />
-    </td>
-  </tr>
-</table>
+<!-- Topo com cat + visitor badge + LinkedIn -->
+
+<p align="left">
+  <img src="assets/cat.gif" width="140" />
+  &nbsp;&nbsp;
+  <span>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=marllondevsec.marllondevsec" />
+    <br />
+    <a href="https://www.linkedin.com/in/marllondevsec">
+      <img src="https://img.shields.io/badge/LinkedIn-marllondevsec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </span>
+</p>
+
+---
+
+## 👋 Hi, I'm Marllon
+
+> **"You can't defend what you don't understand.."**
+>
+> * *Marco Ranum*
+
+🔐 **Cybersecurity · Low-Level Programming · Python • C++ • Windows Internals • Bash**
+
+I focus on building strong foundations in IT and cybersecurity, including:
+
+* Systems & network administration
+* OS internals and low-level programming
+* Security automation and pentesting labs
+* Reverse engineering and responsible vulnerability research
+
+## Currently exploring entry-level opportunities in **IT Support, NOC, SOC Jr, or Infrastructure**, while continuing to learn and experiment with cybersecurity tools and labs.
+
+---
+
+<!-- Banners focados no seu foco principal: ferramentas mantidas nas cores originais e melhor organização -->
 
 <div align="center">
-  <blockquote>
-    <b>"You can't defend what you don't understand."</b><br>
-    <i>— Marco Ranum</i>
-  </blockquote>
+  <!-- Row 1: principais skills (mantém cores originais para ferramentas) -->
+  <div>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Reverse%20Engineering-darkred?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Assembly-x86--64-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </div>
+  <br/>
+  <!-- Row 2: linguagens e outras ferramentas (mantém cores originais para melhor leitura) -->
+  <div>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web-00BFFF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  </div>
+  <br/>
+  <!-- Row 3: áreas/temas (cores originais) -->
+  <div>
+    <img src="https://img.shields.io/badge/Security%20Automation-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Malware%20Research-8B0000?style=for-the-badge" />
+  </div>
 </div>
 
 ---
 
-### 👨‍💻 Perfil Profissional
+### 🧠 Focus Areas
 
-About Me
-I have been working professionally in IT since 2021, building a solid background in systems administration and networking. I am currently finishing my Computer Science degree, transitioning my focus towards Cybersecurity and Low-Level Engineering.
-
-My passion lies in understanding how things work under the hood.
-
-🔭 **Currently looking for opportunities in:**
-> IT Support, NOC, SOC Jr, or Infrastructure Analysis.
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-
-| **Core Skills** | **Systems & Tools** | **Security Focus** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> | <img src="https://img.shields.io/badge/Networking-TCP/IP-00BFFF?style=flat" /> |
-| <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/HTTPS--TLS-008000?style=flat" /> |
-| <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Zabbix-FF4500?style=flat&logo=zabbix&logoColor=white" /> | <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Criptografia-AES-lightgrey?style=flat" /> |
-
-</div>
+* Operating systems & low-level programming (C / C++)
+* Linux & Windows internals
+* Security fundamentals & automation
+* Reverse engineering basics
+* Malware behavior analysis (labs)
+* Web security experiments
+* Memory and execution flow analysis
 
 ---
 
-### 📊 GitHub Analytics
+### 👤 Who I Am
+
+I have been working with Information Technology professionally since 2021, with early and extensive exposure to operating systems and the fundamental principles of networked systems.
+
+I am currently in the final semester of a Computer Science degree, where I found my path within the field of cybersecurity.
+
+This profile is new and was rebuilt with the intention of better organization and the proper application of techniques that I only fully mastered later in my journey.
+
+Today, my focus is on building a strong foundation in IT and security operations, with growing experience in system-level programming, security research, and practical labs, while preparing for entry-level opportunities in IT Support, SOC, NOC, or Infrastructure.
+
+---
+
+<!-- GitHub Stats (stacked, same size, larger) -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marllondevsec&theme=dracula&hide_border=true" width="100%" alt="GitHub Streak" />
-  
-  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marllondevsec&theme=dark&hide_border=true&date_format=%5BY-%5Dm-%5Dd" width="620" style="display:block;margin:14px auto;" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=marllondevsec&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=00FF66&title_color=00FF66&text_color=9AEF9A" width="620" style="display:block;margin:14px auto;" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=marllondevsec&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=00FF66&text_color=9AEF9A" width="620" style="display:block;margin:14px auto;"
 
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=marllondevsec&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="100%" alt="GitHub Status" />
+<div align="center">
+  <img src="assets/cli.gif" width="520" />
+  <br/>
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=marllondevsec&layout=compact&langs_count=16&theme=dracula&hide_border=true" width="100%" alt="Most Used Languages" />
 </div>
