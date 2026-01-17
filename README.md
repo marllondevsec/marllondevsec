@@ -33,10 +33,9 @@ I focus on building strong foundations in IT and cybersecurity, including:
 
 ---
 
-<!-- Banners focados no seu foco principal: ferramentas mantidas nas cores originais e melhor organização -->
+<!-- Banners focados no seu foco principal -->
 
 <div align="center">
-  <!-- Row 1: principais skills (mantém cores originais para ferramentas) -->
   <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Reverse%20Engineering-darkred?style=for-the-badge" />
@@ -44,7 +43,6 @@ I focus on building strong foundations in IT and cybersecurity, including:
     <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
   </div>
   <br/>
-  <!-- Row 2: linguagens e outras ferramentas (mantém cores originais para melhor leitura) -->
   <div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,7 +50,6 @@ I focus on building strong foundations in IT and cybersecurity, including:
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </div>
   <br/>
-  <!-- Row 3: áreas/temas (cores originais) -->
   <div>
     <img src="https://img.shields.io/badge/Security%20Automation-8A2BE2?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Malware%20Research-8B0000?style=for-the-badge" />
@@ -85,15 +82,17 @@ Today, my focus is on building a strong foundation in IT and security operations
 
 ---
 
-<!-- GitHub Stats (stacked, same size, larger) -->
+<!-- GitHub Stats corrigidos -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marllondevsec&theme=dark&hide_border=true&date_format=%5BY-%5Dm-%5Dd" width="620" style="display:block;margin:14px auto;" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=marllondevsec&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=00FF66&title_color=00FF66&text_color=9AEF9A" width="620" style="display:block;margin:14px auto;" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=marllondevsec&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=00FF66&text_color=9AEF9A" width="620" style="display:block;margin:14px auto;"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marllondevsec&theme=dark&hide_border=true&currStreakNum=00FF66&sideLabels=00FF66&dates=00FF66&sideNums=00FF66&fire=00FF66" width="700" style="display:block;margin:14px auto;" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=marllondevsec&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=00FF66&title_color=00FF66&text_color=9AEF9A" width="700" style="display:block;margin:14px auto;" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=marllondevsec&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=00FF66&text_color=9AEF9A" width="700" style="display:block;margin:14px auto;" />
+</div>
+
+---
 
 <div align="center">
   <img src="assets/cli.gif" width="520" />
   <br/>
-
 </div>
