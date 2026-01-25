@@ -20,19 +20,9 @@
 >
 > * *Marco Ranum*
 
-🔐 **Cybersecurity · Low-Level Programming · Python • C++ • Windows Internals • Bash**
+
 
 I focus on building strong foundations in IT and cybersecurity, including:
-
-* Systems & network administration
-* OS internals and low-level programming
-* Security automation and pentesting labs
-* Reverse engineering and responsible vulnerability research
-
-## Currently exploring entry-level opportunities in **IT Support, NOC, SOC Jr, or Infrastructure**, while continuing to learn and experiment with cybersecurity tools and labs.
-
----
-
 <!-- Banners focados no seu foco principal -->
 
 <div align="center">
@@ -41,36 +31,17 @@ I focus on building strong foundations in IT and cybersecurity, including:
     <img src="https://img.shields.io/badge/Reverse%20Engineering-darkred?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Assembly-x86--64-black?style=for-the-badge" />
     <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  </div>
-  <br/>
-  <div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Web-00BFFF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  </div>
-  <br/>
-  <div>
     <img src="https://img.shields.io/badge/Security%20Automation-8A2BE2?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Malware%20Research-8B0000?style=for-the-badge" />
-  </div>
-</div>
-
+    </div>
 ---
 
-### 🧠 Focus Areas
-
-* Operating systems & low-level programming (C / C++)
-* Linux & Windows internals
-* Security fundamentals & automation
-* Reverse engineering basics
-* Malware behavior analysis (labs)
-* Web security experiments
-* Memory and execution flow analysis
-
----
-
-### 👤 Who I Am
+###  (root@marllon)-[~] 
+  whoami
 
 I have been working with Information Technology professionally since 2021, with early and extensive exposure to operating systems and the fundamental principles of networked systems.
 
